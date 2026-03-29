@@ -26,24 +26,24 @@ export function LoveLetter() {
       </motion.div>
 
       <h1 className="text-3xl font-bold text-center mb-6 text-pink-700">
-        Para Ti, Mi Amor
+        La amo completamente, Estefanía.
       </h1>
 
       <div className="space-y-4 text-pink-800 leading-relaxed">
         <p>
-          Cada dia que pasa, mi amor por ti crece mas y mas. Eres la razon de
-          mi sonrisa, la luz que ilumina mis dias oscuros.
+          Cada día que pasa, mi amor por ti crece más y más. Eres la razón de
+          mi sonrisa, la luz que ilumina mis días oscuros.
         </p>
         <p>
-          Tu presencia en mi vida es el regalo mas hermoso que el destino me ha
+          Tu presencia en mi vida es el regalo más hermoso que el destino me ha
           dado. Contigo, cada momento se convierte en un recuerdo precioso.
         </p>
         <p>
-          Gracias por ser tu, por amarme como lo haces, y por hacer de mi
-          mundo un lugar mejor simplemente estando en el.
+          Gracias por ser tú, por amarme como lo haces, y por hacer de mi
+          mundo un lugar mejor simplemente estando en él.
         </p>
         <p className="text-center font-semibold text-pink-600 pt-4">
-          Te amo hoy, manana y siempre.
+          Te amo hoy, mañana y siempre.
         </p>
       </div>
 

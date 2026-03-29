@@ -4,18 +4,18 @@ import { motion, AnimatePresence } from "framer-motion"
 import { useState, useEffect } from "react"
 
 const loveNotes = [
-  "Te amo",
+  "La amo",
   "Eres mi todo",
-  "Mi corazon es tuyo",
-  "Siempre juntos",
-  "Te adoro",
-  "Eres mi sol",
-  "Mi amor eterno",
-  "Contigo soy feliz",
+  "Mi corazón es suyo",
+  "Lo siento, quiero estar a su lado",
+  "La adoro",
+  "Eres mi hermosa única",
+  "Quiero ver sus ojitos lindos",
+  "Con usted soy feliz",
   "Te quiero mucho",
-  "Eres especial",
-  "Mi vida eres tu",
-  "Por siempre tuyo/a",
+  "Usted especial en mi corazón",
+  "Usted le da color a mi vida",
+  "Quiero verla siempre",
 ]
 
 interface Note {
