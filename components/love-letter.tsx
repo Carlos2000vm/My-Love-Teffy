@@ -26,7 +26,7 @@ export function LoveLetter() {
       </motion.div>
 
       <h1 className="text-3xl font-bold text-center mb-6 text-pink-700">
-        La amo completamente, Estephanía.
+        La amo completamente Estephanía.
       </h1>
 
       <div className="space-y-4 text-pink-800 leading-relaxed">
