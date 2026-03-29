@@ -5,7 +5,7 @@ import { useState, useEffect } from "react"
 
 const loveNotes = [
   "La amo",
-  "Eres mi todo",
+  "ud mi todo",
   "Mi corazón es suyo",
   "Lo siento, quiero estar a su lado",
   "La adoro",
@@ -16,6 +16,12 @@ const loveNotes = [
   "Usted especial en mi corazón",
   "Usted le da color a mi vida",
   "Quiero verla siempre",
+  "haces que mis dias malos sean felices", 
+  "ud se a vuelto mi mundo y mi vida",
+  "ud a hecho latir mi corazón solo con verla",
+  "ud tiene todo eso que amo con mi alma",
+  "ud es como una tormenta de emeciones en mi corazón",
+  "no quiero perder lo que mas amo",
 ]
 
 interface Note {

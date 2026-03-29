@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+ /** @type {import('next').NextConfig} */
 const nextConfig = {
 //output: 'export',  // Comentado para desarrollo
 //basePath: '/My-Love-Teffy',  // Comentado para desarrollo
@@ -6,3 +6,4 @@ const nextConfig = {
 };
 
 export default nextConfig;
+ 
