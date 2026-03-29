@@ -35,8 +35,9 @@ export function LoveLetter() {
           mi sonrisa, la luz que ilumina mis días oscuros.
         </p>
         <p>
-          Tu presencia en mi vida es el regalo más hermoso que el destino me ha
-          dado. Contigo, cada momento se convierte en un recuerdo precioso.
+          Enserio lo siento, quisiera ir y pasar tiempo con ud que es lo que mas disfruto
+          quiero que pueda escribirme y hablar como lo haciamos, la extraño mucho, no quiero
+          que ud se aleje de mi, quiero que me de la oportunidad de demostrarle que estoy cambiando .
         </p>
         <p>
           Gracias por ser tú, por amarme como lo haces, y por hacer de mi
